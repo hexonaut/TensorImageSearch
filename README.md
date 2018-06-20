@@ -4,10 +4,10 @@ Automate the extraction of tensorflow image recognition data for use in e-discov
 
 # Pre-requisites
 
+ImageClassify_LoadFile.py from this repo should be run from the same directory as the classify_image.py script from the tensorflow models repo.
+
 Tensorflow models repo cloned as per:
 https://www.tensorflow.org/tutorials/image_recognition
-
-ImageClassify_LoadFile.py from this repo should be run from the same directory as the classify_image.py script from the tensorflow models repo.
 
 Uses python 3
 
